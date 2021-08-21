@@ -1,7 +1,7 @@
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Himanshu Tiwari 👨‍💻 </h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, Namaste 🙏🏻 I am Himanshu Tiwari </h1>
  
  <p align="right">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img height="150cm" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
  </p>
  
 
@@ -20,7 +20,7 @@
 <p align="center">
 <a href="https://github.com/himanshutiwariji">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=himanshutiwariji&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshutiwariji&layout=compact&langs_count=8&theme=dark"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshutiwariji&layout=compact&langs_count=8&theme=dark">
 </a>
 </p>
 
