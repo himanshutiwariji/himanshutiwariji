@@ -1,10 +1,9 @@
-﻿<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Himanshu Tiwari 👨‍💻 </h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Himanshu Tiwari 👨‍💻 </h1>
  
- <p align="center">
-<img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif">
+ <p align="right">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
  </p>
  
-<h2 align="center">हिमांशु तिवारी </h2>
 
 - 🌱 I am a passionate **self-taught developer** and a freelance software engineer from **India**. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
@@ -20,8 +19,8 @@
 
 <p align="center">
 <a href="https://github.com/himanshutiwariji">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=himanshutiwariji&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshutiwariji&layout=compact&langs_count=8&theme=radical"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=himanshutiwariji&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshutiwariji&layout=compact&langs_count=8&theme=dark"/>
 </a>
 </p>
 
